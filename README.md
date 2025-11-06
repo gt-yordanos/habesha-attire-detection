@@ -105,7 +105,7 @@ It’s a solid foundation that I plan to build upon in my AI/ML journey.
 - **LinkedIn:** [Yordanos Tefera](https://www.linkedin.com/in/yordanosgtefera/)
 
 ---
-<div style="background-color:red; color:red">Test</div>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/award.svg" alt="Thank You" width="120" style="fill:#FFD700; background-color:#ffffff; border-radius:50%; padding:10px;"/><br/>
   <strong>Thank you for checking out my project!</strong>
