@@ -96,13 +96,13 @@ This was a hands-on learning experience in:
 - CNN architecture design  
 - Evaluating and improving model performance  
 
-It’s a solid foundation that I plan to build upon in my computer vision journey.
+It’s a solid foundation that I plan to build upon in my AI/ML journey.
 
 ---
 
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/external-link.svg" width="20" style="fill:#FFD700; background-color:#ffffff; border-radius:50%; padding:5px;"/> Links
-- **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/YOUR_SPACE_NAME)  
-- **LinkedIn:** [Yordanos Tefera](https://linkedin.com/in/YOUR_LINKEDIN)
+- **Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/YordanosTefera/habesha-attire-detection)  
+- **LinkedIn:** [Yordanos Tefera](https://www.linkedin.com/in/yordanosgtefera/)
 
 ---
 
